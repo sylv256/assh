@@ -20,7 +20,7 @@ This is ultimately my passion project, and I seek no commercial revenue from it.
 `assh` does one thing: execute code. `assh` is not an init system nor is it a language. `assh` is a shell, and it executes code.
 
 #### `assh`'s Purpose
-`assh` is the command interpreter. `assh` has no streams and no extraneous syntax because it only executes code.
+`assh` is the command interpreter. `assh` has little syntax because it only executes code. However, `assh` provides basic I/O redirection and forking.
 
 #### `lassh`'s Purpose
 `lassh` is an implementation of a scripting language for `assh` that can be invoked via `lassh <path>` or with a shebang.
