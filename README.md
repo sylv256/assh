@@ -1,4 +1,7 @@
 # `assh`
+> [!IMPORTANT]
+> `assh` is in active development and is **not** ready for general usage. Expect instability and broken promises.
+
 `assh` is a creative take on shells. `assh` massively simplifies the role of the shell while providing a fully-fleshed scripting language and REPL. Read more in the [design philosophy](#design-philosophy).
 
 ## How do you pronounce `assh`?
